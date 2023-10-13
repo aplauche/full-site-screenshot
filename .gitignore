@@ -1,0 +1,7 @@
+.env
+node_modules
+output
+.DS_Store
+screencapture-output
+package-lock.json
+*.csv
