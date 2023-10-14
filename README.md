@@ -37,4 +37,4 @@ All outputted images and the pdf will be placed into a screencapture-output dire
 
 For some sites you may need additional logic like closing cookie banners, clicking on modals or accordions, etc. 
 
-This package is intentionally slim and does not handle these cases. Instead, you can download the soruce files for this package from github where there is a branch called "custom-starter". This gives you an entry point to add additional logic when the page loads. You can fork this or simply download and use as you see fit.
+This package is intentionally slim and does not handle these cases. Instead, you can download the soruce files for this package from github where there is a branch called "custom-actions". This gives you an entry point to add additional logic when the page loads. You can fork this or simply download and use as you see fit.
