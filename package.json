@@ -2,9 +2,12 @@
   "name": "full-site-screenshot",
   "version": "0.1.0",
   "description": "",
+  "files": [
+    "lib"
+  ],
   "main": "index.js",
   "bin": {
-    "full-site-screenshot": "./bin/index.js"
+    "full-site-screenshot": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
